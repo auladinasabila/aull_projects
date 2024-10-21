@@ -1,0 +1,20 @@
+p{
+    font-size: 20px;
+}
+
+label{
+    font-size: 20px;
+    color: aqua;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    background-color: blueviolet;
+    color: antiquewhite;
+    margin-left: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
